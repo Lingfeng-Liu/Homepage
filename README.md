@@ -2,7 +2,7 @@
 
 ## 个人信息
 
-![个人照片](Homepage/photo.jpg)
+![个人照片](photo.jpg)
 
 - **姓名：** 刘泠风
 
